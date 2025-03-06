@@ -2,5 +2,5 @@ streamlit
 opencv-python
 numpy
 pandas
-https://github.com/z-mahmud22/Dlib_Windows_Python3.x/blob/main/dlib-19.24.99-cp312-cp312-win_amd64.whl
+https://rawcdn.githack.com/z-mahmud22/Dlib_Windows_Python3.x/main/dlib-19.24.99-cp312-cp312-win_amd64.whl
 face_recognition
