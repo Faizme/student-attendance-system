@@ -1,2 +1,15 @@
+# System dependencies for OpenCV
 libgl1
 libglib2.0-0
+
+# System dependencies for dlib
+build-essential
+cmake
+libopenblas-dev
+liblapack-dev
+libx11-dev
+
+# Additional dependencies for face_recognition
+libgtk2.0-0
+libsm6
+libxext6
