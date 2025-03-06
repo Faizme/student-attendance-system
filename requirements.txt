@@ -1,5 +1,5 @@
-opencv-python
+cmake
+dlib
+face-recognition
 numpy
-pandas
-openpyxl
-face_recognition
+opencv-python
